@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /cgi-bin/
+Disallow: /elements.html
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /js/
+
+
+Sitemap: https://www.tedxbutex.com/sitemap.xml
