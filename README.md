@@ -27,7 +27,7 @@ the contents with many features. It is also optimized for SEO and responsive web
 Contact
 -------
 
-Abir Hasan : [Email](mailto:abir.spsc@gmail.com) · [Linkedin](https://www.linkedin.com/in/abir19/) · [Facebook](https://www.facebook.com/abir38)
+Abir Hasan : [Facebook](https://www.facebook.com/abir38) · [Linkedin](https://www.linkedin.com/in/abir19/) · [abir.spsc@gmail.com](mailto:abir.spsc@gmail.com)
 
 Project Link : [https://github.com/abir0/tedxbutex-website](https://github.com/abir0/tedxbutex-website)
 
