@@ -1,8 +1,8 @@
 <p align="center">
-  <img alt="tedxbutex logo" src="./tedxbutex-website/public_html/img/logo2.png" width="400">
+  <img alt="tedxbutex logo" src="./public_html/img/logo2.png" width="400">
 </p>
 
-> This repository contains the source code and documentation for [tedxbutex.com] website.
+> This repository contains the source code and documentation for [tedxbutex.com](https://tedxbutex.com) website.
 
 <p align="center">
   <img alt="screenshot of website" src="https://i.imgur.com/bFwKpel.jpg">
