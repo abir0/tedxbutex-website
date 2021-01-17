@@ -13,7 +13,8 @@
 [![Facebook][facebook-shield]][facebook-url]
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+About The Project
+-----------------
 This is my project on TEDxBUTEX event website. The public_html folder contains all the files. This project was developed using a colorlib template, later adding and refining
 the contents with many features. It is also optimized for SEO and responsive web design.
 
@@ -22,16 +23,18 @@ the contents with many features. It is also optimized for SEO and responsive web
 * [JQuery](https://jquery.com)
 
 <!-- CONTACT -->
-## Contact
+Contact
+-------
 
-Abir Hasan - [Linkedin][linkedin-url]
+[Abir Hasan][linkedin-url]
 
 Project Link: [https://github.com/abir0/tedxbutex-website](https://github.com/abir0/tedxbutex-website)
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [Cover art - Abdullah Pranto](https://www.facebook.com/abdullah.rahman.908)
-* [Colorlib](https://colorlib.com/)
+Acknowledgements
+----------------
+* Abdullah Pranto (Cover design)
+* [Colorlib (Template gallery)](https://colorlib.com/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [website-screenshot]: https://i.imgur.com/bFwKpel.jpg
