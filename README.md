@@ -5,11 +5,7 @@
 
 > This repository contains the source code and documentation for [tedxbutex.com](https://tedxbutex.com) website.
 
-<p align="center">
-  <img alt="screenshot of website" src="https://i.imgur.com/bFwKpel.jpg">
-</p>
-
-[![Product Name Screen Shot][website-screenshot]][website-url]
+[![Website Screen Shot][website-screenshot]][website-url]
 
 <!-- PROJECT SHIELDS -->
 [![Website Status][website-shield]][website-url]
