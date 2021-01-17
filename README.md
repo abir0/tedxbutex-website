@@ -38,7 +38,7 @@ Acknowledgements
 * [Colorlib (Template gallery)](https://colorlib.com/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[website-screenshot]: https://i.imgur.com/iJt1NU4.jpg
+[website-screenshot]: https://i.imgur.com/LNRXgCB.jpg
 [website-url]: https://tedxbutex.com
 [activity-shield]: https://img.shields.io/github/last-commit/abir0/tedxbutex-website/main?style=for-the-badge
 [website-shield]: https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Ftedxbutex.com
