@@ -10,7 +10,7 @@
 <!-- PROJECT SHIELDS -->
 [![Facebook][facebook-shield]][facebook-url]
 [![Website Status][website-shield]][website-url]
-[![Activity][activity-shield]][website-url]
+[![Activity][activity-shield]]
 
 <!-- ABOUT THE PROJECT -->
 About The Project
