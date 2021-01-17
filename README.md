@@ -8,9 +8,9 @@
 [![Website Screen Shot][website-screenshot]][website-url]
 
 <!-- PROJECT SHIELDS -->
+[![Facebook][facebook-shield]][facebook-url]
 [![Website Status][website-shield]][website-url]
 [![Activity][activity-shield]][website-url]
-[![Facebook][facebook-shield]][facebook-url]
 
 <!-- ABOUT THE PROJECT -->
 About The Project
@@ -21,6 +21,7 @@ the contents with many features. It is also optimized for SEO and responsive web
 ### Built With
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
+
 
 <!-- CONTACT -->
 Contact
