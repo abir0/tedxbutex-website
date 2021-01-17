@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="tedxbutex logo" src="./public_html/img/logo2.png" width="200">
+  <img alt="tedxbutex logo" src="./public_html/img/logo.png" width="200">
 </p>
 
 > This repository contains the source code and documentation for [tedxbutex.com](https://tedxbutex.com) website.
