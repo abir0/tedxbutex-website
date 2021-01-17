@@ -3,7 +3,7 @@
   <img alt="tedxbutex logo" src="./public_html/img/logo.png" alt="Logo" width="200">
 </p>
 
-> This repository contains the source code and documentation for [tedxbutex.com](https://tedxbutex.com) website.
+> This repository contains the source code and documentation for [website-url] website.
 
 [![Website Screen Shot][website-screenshot]][website-url]
 
