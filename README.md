@@ -34,8 +34,8 @@ Project Link : [https://github.com/abir0/tedxbutex-website](https://github.com/a
 <!-- ACKNOWLEDGEMENTS -->
 Acknowledgements
 ----------------
-* Abdullah Pranto (Cover design)
-* [Colorlib (Template gallery)](https://colorlib.com/)
+* Abdullah Pranto (Vector art)
+* [Colorlib](https://colorlib.com/) (Template gallery)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [website-screenshot]: https://i.imgur.com/LNRXgCB.jpg
