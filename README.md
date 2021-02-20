@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 About The Project
 -----------------
-This is my project on TEDxBUTEX event website. The [public_html] folder contains all the files. This project was developed using a colorlib template, later adding and refining
+This is my project on TEDxBUTEX event website. This project was developed using a colorlib template, later adding and refining
 the contents with many features. It is also optimized for SEO and responsive web design.
 
 ### Built With
