@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img alt="tedxbutex logo" src="./public_html/img/logo.png" alt="Logo" width="200">
+  <img alt="tedxbutex logo" src="./img/logo.png" alt="Logo" width="200">
 </p>
 
 > This repository contains the source code and documentation for [tedxbutex.com][website-url] website.
