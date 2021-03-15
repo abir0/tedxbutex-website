@@ -272,7 +272,7 @@ ol {
 	float: left;
 	margin-right: 178px;
 	opacity: 0.85;
-	
+
 }
 
 .header .logo a {
@@ -386,7 +386,7 @@ ol {
 
 .hero-items .single-hero-item h1 {
 	color: #fff;
-	
+
 	font-size: 100px;
 	font-weight: 900;
 	line-height: 100px;
@@ -402,7 +402,7 @@ ol {
 	font-size: 36px;
 	font-weight: 900;
 	opacity: 0;
-	
+
 	top: 50px;
 }
 
@@ -511,7 +511,7 @@ ol {
 	color: #272727;
 	font-size: 25px;
 	font-weight: 900;
-	
+
 }
 
 .speakers-about .speaker-text h3 span {
@@ -915,7 +915,7 @@ ol {
 
 .tickets-table-price {
 	background: #f3f3f3;
-	
+
 }
 
 .tickets-table {
@@ -1231,10 +1231,6 @@ ol {
 	list-style: none;
 	position: relative;
 	margin-bottom: 23px;
-}
-
-.map .contact-address li:first-child {
-	line-height: 30px;
 }
 
 .map .contact-address li i {
