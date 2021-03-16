@@ -872,10 +872,6 @@ ol {
   Call To
 -----------------------*/
 
-.call-to-area {
-	padding-top: 85px;
-}
-
 .call-to-text .section-title {
 	margin-bottom: 25px;
 }
@@ -892,10 +888,6 @@ ol {
 	margin-bottom: 42px;
 }
 
-.call-to-text .buy-tickets {
-	background: #4ACA59;
-	padding: 20px 35px;
-}
 
 /*---------------------
   Speaker ALl
@@ -1036,19 +1028,6 @@ ol {
 	padding-bottom: 100px;
 }
 
-.about-article .article-img img {
-	border-radius: 6px;
-}
-
-.about-article .article-details span {
-	display: block;
-	font-size: 16px;
-	font-weight: 400;
-	color: #272727;
-	opacity: 0.75;
-	margin-bottom: 6px;
-}
-
 .about-article .article-details h3 {
 	color: #272727;
 	font-size: 30px;
@@ -1063,61 +1042,6 @@ ol {
 	font-weight: 400;
 	line-height: 30px;
 	margin-bottom: 34px;
-}
-
-.about-article .article-details .article-btn {
-	font-size: 14px;
-	padding: 13px 30px;
-}
-
-.about-items .single-about {
-	margin-bottom: 55px;
-}
-
-.about-items .single-about .about-img img {
-	border-radius: 6px;
-	min-width: 100%;
-}
-
-.about-items .single-about .about-details {
-	padding-top: 23px;
-}
-
-.about-items .single-about .about-details span {
-	color: #272727;
-	font-size: 16px;
-	font-weight: 400;
-	opacity: 0.75;
-	display: block;
-	margin-bottom: 8px;
-}
-
-.about-items .single-about .about-details h4 {
-	color: #272727;
-	font-size: 24px;
-	font-weight: 900;
-	line-height: 36px;
-	margin-bottom: 21px;
-}
-
-.about-items .single-about .about-details p {
-	color: #484848;
-	font-size: 18px;
-	font-weight: 400;
-	line-height: 30px;
-	margin-bottom: 27px;
-}
-
-.about-items .single-about .about-details a.read-btn {
-	color: #6063ed;
-	font-size: 14px;
-	display: block;
-	font-weight: 900;
-	text-transform: uppercase;
-}
-
-.about-pagination {
-	margin-top: -20px;
 }
 
 .pagination-number a {
@@ -1272,96 +1196,7 @@ ol {
 	padding-bottom: 90px;
 }
 
-/*  Button Elem  */
-
-.buttons-elem {
-	padding-bottom: 104px;
-}
-
-.buttons-elem .section-title {
-	margin-bottom: 52px;
-}
-
-.buttons-elem .buttons .send-btn {
-	height: 67px;
-	width: 234px;
-	background: #6063ED;
-	border: 1px solid #6063ED;
-	margin-right: 20px;
-}
-
-.buttons-elem .buttons a.green {
-	background: #4ACA59;
-	padding: 20px 38px;
-	margin-right: 20px;
-}
-
-.buttons-elem .buttons a.gradient {
-	background: -webkit-gradient(linear, left top, right top, from(#FB3ABE), to(#F149E3));
-	background: linear-gradient(to right, #FB3ABE, #F149E3);
-	padding: 20px 38px;
-}
-
 /*  Accordin Elem  */
-
-.accordintab-elem .section-title {
-	margin-bottom: 52px;
-}
-
-.accordin-elem {
-	margin-bottom: 70px;
-}
-
-.accordin-elem .card {
-	border: none;
-	margin-bottom: 13px;
-}
-
-.accordin-elem .card .card-heading {
-	background: #F5F5F5;
-	padding: 16px 30px 15px 20px;
-	border-radius: 6px;
-	transition: all 0.4s;
-	-webkit-transition: all 0.4s;
-}
-
-.accordin-elem .card .card-heading a {
-	font-size: 18px;
-	font-weight: 700;
-	cursor: pointer;
-	display: block;
-	text-align: left;
-	color: #272727;
-}
-
-.accordin-elem .card .card-body {
-	font-weight: 400;
-	line-height: 30px;
-	padding-right: 10px;
-	padding-left: 10px;
-	padding-top: 25px;
-	font-size: 18px;
-	color: #484848;
-}
-
-.accordin-elem .card:first-of-type {
-	border-top-left-radius: 0;
-	border-top-right-radius: 0;
-}
-
-.accordin-elem .card:last-of-type {
-	border-bottom-left-radius: 0;
-	border-bottom-right-radius: 0;
-}
-
-.accordin-elem .card-heading a:after,
-.accordin-elem .card-heading>a.active[aria-expanded=false]:after {
-	content: "+";
-	float: right;
-	font-size: 14px;
-	font-weight: 700;
-	color: #060a0f;
-}
 
 .accordin-elem .card-heading a[aria-expanded=true]:after,
 .accordin-elem .card-heading>a.active:after {
@@ -1370,18 +1205,6 @@ ol {
 	font-size: 14px;
 	font-weight: 700;
 	color: #060a0f;
-}
-
-.accordin-elem .card-heading.active {
-	background: #6063ED;
-}
-
-.accordin-elem .card-heading.active a {
-	color: #fff;
-}
-
-.accordin-elem .card-heading.active a:after {
-	color: #fff;
 }
 
 .tabs-elem .nav-tabs {
@@ -1629,21 +1452,8 @@ ol {
 	.hurry-up .countdown-timer .cd-time {
 		margin-right: 80px;
 	}
-	.blog-article .article-details span {
-		margin-bottom: 4px;
-	}
-	.blog-article .article-details h3 {
-		font-size: 24px;
-		margin-bottom: 15px;
-	}
-	.blog-article .article-details p {
-		margin-bottom: 15px;
-	}
 	.map .contact-address {
 		width: 300px;
-	}
-	.accordin-elem .card .card-heading a {
-		font-size: 17px;
 	}
 	.single-milestone-counter .counter-text span.counter-num {
 		font-size: 54px;
@@ -1732,16 +1542,10 @@ ol {
 	.hurry-up .countdown-timer .cd-time span {
 		font-size: 70px;
 	}
-	.blog-article .article-img {
-		margin-bottom: 30px;
-	}
 	.map {
 		position: relative;
 		height: 700px;
 		width: 100%;
-	}
-	.buttons-elem .buttons a.green {
-		margin-right: 18px;
 	}
 	.milestone-counter {
 		margin-bottom: 48px;
@@ -1898,9 +1702,6 @@ ol {
 		margin-bottom: 40px;
 		display: inline-block;
 	}
-	.blog-article .article-img {
-		margin-bottom: 30px;
-	}
 	.call-to-text .section-title h2 {
 		font-size: 45px;
 	}
@@ -1929,17 +1730,11 @@ ol {
 	.single-loader {
 		margin-bottom: 50px;
 	}
-	.accordin-elem .card .card-heading a {
-		font-size: 17px;
-	}
 	.milestone-counter {
 		margin-bottom: 48px;
 	}
 	.single-milestone-counter {
 		margin-bottom: 50px;
-	}
-	.buttons-elem .buttons .send-btn {
-		margin-bottom: 20px;
 	}
 	.tab-elem {
 		margin-bottom: 80px;
@@ -1998,9 +1793,6 @@ ol {
 		padding: 45px 35px 70px 22px;
 	}
 	.map .contact-address h4 {
-		margin-bottom: 20px;
-	}
-	.buttons-elem .buttons a.green {
 		margin-bottom: 20px;
 	}
 	.tab-elem .nav-tabs .nav-item {

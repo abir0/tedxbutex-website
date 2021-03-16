@@ -22,53 +22,15 @@
 }
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
-[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
   font-family: Flaticon;
         font-size: 20px;
 font-style: normal;
 margin-left: 0;
 }
 
-.flaticon-add:before { content: "\f100"; }
-.flaticon-add-1:before { content: "\f101"; }
-.flaticon-add-2:before { content: "\f102"; }
-.flaticon-add-3:before { content: "\f103"; }
-.flaticon-agenda:before { content: "\f104"; }
-.flaticon-alarm:before { content: "\f105"; }
-.flaticon-alarm-1:before { content: "\f106"; }
-.flaticon-alarm-clock:before { content: "\f107"; }
-.flaticon-alarm-clock-1:before { content: "\f108"; }
-.flaticon-albums:before { content: "\f109"; }
-.flaticon-app:before { content: "\f10a"; }
-.flaticon-archive:before { content: "\f10b"; }
-.flaticon-archive-1:before { content: "\f10c"; }
-.flaticon-archive-2:before { content: "\f10d"; }
-.flaticon-archive-3:before { content: "\f10e"; }
-.flaticon-attachment:before { content: "\f10f"; }
-.flaticon-back:before { content: "\f110"; }
-.flaticon-battery:before { content: "\f111"; }
-.flaticon-battery-1:before { content: "\f112"; }
-.flaticon-battery-2:before { content: "\f113"; }
-.flaticon-battery-3:before { content: "\f114"; }
-.flaticon-battery-4:before { content: "\f115"; }
 .flaticon-battery-5:before { content: "\f116"; }
-.flaticon-battery-6:before { content: "\f117"; }
-.flaticon-battery-7:before { content: "\f118"; }
-.flaticon-battery-8:before { content: "\f119"; }
-.flaticon-battery-9:before { content: "\f11a"; }
-.flaticon-binoculars:before { content: "\f11b"; }
-.flaticon-blueprint:before { content: "\f11c"; }
-.flaticon-bluetooth:before { content: "\f11d"; }
-.flaticon-bluetooth-1:before { content: "\f11e"; }
-.flaticon-bookmark:before { content: "\f11f"; }
-.flaticon-bookmark-1:before { content: "\f120"; }
-.flaticon-briefcase:before { content: "\f121"; }
-.flaticon-broken-link:before { content: "\f122"; }
-.flaticon-calculator:before { content: "\f123"; }
-.flaticon-calculator-1:before { content: "\f124"; }
 .flaticon-calendar:before { content: "\f125"; }
-.flaticon-calendar-1:before { content: "\f126"; }
-.flaticon-calendar-2:before { content: "\f127"; }
 .flaticon-calendar-3:before { content: "\f128"; }
 .flaticon-calendar-4:before { content: "\f129"; }
 .flaticon-calendar-5:before { content: "\f12a"; }
