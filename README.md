@@ -39,8 +39,8 @@ Acknowledgements
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [website-screenshot]: https://i.imgur.com/LNRXgCB.jpg
-[website-url]: https://abir0.github.io/tedxbutex-website
+[website-url]: https://tedxbutex.netlify.app
 [activity-shield]: https://img.shields.io/github/last-commit/abir0/tedxbutex-website/main?style=for-the-badge
-[website-shield]: https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fabir0.github.io%2Ftedxbutex-website
+[website-shield]: https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Ftedxbutex.netlify.app
 [facebook-shield]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 [facebook-url]: https://www.facebook.com/TEDxBUTEX
