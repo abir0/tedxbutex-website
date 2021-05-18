@@ -8,7 +8,7 @@
 'use strict';
 
 (function ($) {
-    
+
     /*------------------
         Preloader
     --------------------*/
@@ -38,7 +38,7 @@
 	--------------------*/
     $(".search-trigger").on('click', function() {
         $(".search-bar-wrap").addClass("active");
-    });              
+    });
 
 
     $(".search-close").on('click', function() {
